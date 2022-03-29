@@ -21,22 +21,9 @@ button {
 	font-weight: bold;
 }
 
-button:hover {
-	background: #415e93;
-	color: white;
-	padding: 10px 20px;
-	border: 1px solid #415e93;
-	font-weight: bold;
-}
-
 #delete-btn {
 	background: white;
 	color: #5f9341;
-}
-
-#delete-btn:hover {
-	background: white;
-	color: #494193;
 }
 
 ul {
